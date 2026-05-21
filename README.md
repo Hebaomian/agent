@@ -1,7 +1,7 @@
 # agent
-
-售前的方案一般是如下路径：
 <img width="1422" height="278" alt="image" src="https://github.com/user-attachments/assets/25af6be0-5a83-4651-b5c7-a53e3ee2ae07" />
+售前的方案一般是如下路径：
+<img width="1478" height="152" alt="image" src="https://github.com/user-attachments/assets/516d16a7-c068-4568-8d70-7f8437cc23eb" />
 
 ﻿﻿﻿
 大模型时代，随着模型能力的飙升，上述所有模块都逐渐出现了大模型的身影。本文以上述框架在大模型时代的变化，展示店小蜜业务中，我们是如何逐渐从被动的一问一答的对话系统，转向主动出击、主动寻求问题解决的agent系统的。
